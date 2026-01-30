@@ -54,7 +54,7 @@ Now open [http://localhost:3000](http://localhost:3000) in your browser 🚀
 
 If you’d like to collaborate or just say hi 👋, feel free to reach out!
 
-* 📧 **Email:** [kunjd2803@gmail.com](mailto:digvipatil8133@gmail.com)
+* 📧 **Email:** [digvipatil8133@gmail.com](mailto:digvipatil8133@gmail.com)
 * 💼 **LinkedIn:** [https://www.linkedin.com/in/digvijay-4bbb403a3](https://www.linkedin.com/in/digvijay-4bbb403a3)
 
 ---
